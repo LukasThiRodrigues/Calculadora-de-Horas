@@ -1,0 +1,16 @@
+{
+  "name": "work-hours-calculator",
+  "version": "1.0.0",
+  "description": "Calculadora de horas trabalhadas",
+  "main": "calculadora_horas.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
